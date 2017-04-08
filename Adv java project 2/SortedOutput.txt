@@ -1,0 +1,5 @@
+           FirstName             LastName               Grade 1             Grade 2             Grade 3            Average            Status             Letter Grade
+                 Kay                Adams                 0.0                 0.0                 0.0                 0.0             Failing                   F
+             Phillip            Tattaglia                78.1                 0.0                 0.0               26.03             Failing                   F
+             Michael             Corleone                78.6                99.7                 0.0               59.43             Failing                   F
+                Luca                Brasi                90.5               100.0               100.0               96.83             Passing                   A
