@@ -1,0 +1,19 @@
+Steps for loading Connection Driver for database in java project;
+
+* first intall mysql community server on system go to >> https://dev.mysql.com/downloads/windows/installer/5.7.html 
+
+* download MySQL Installer 5.7.17 for your pc, then also install MySQL Workbench 6.3.9 to check database is properly created.
+
+*after installing sql go to 'system property' >> click on "Advanced" tab then click on "Enviornment Variables" just above ok and
+cancel button
+ 
+>> on 'System variables' section click new and create a new System variable with following name "CLASSPATH"  and variable value 
+you have to choose "mysql-connector-java-5.1.41.jar"  file from your system then click ok,ok,ok 
+
+mysql-connector-java-5.1.41.jar file can be downloaded from >>> https://dev.mysql.com/downloads/connector/ and choose connecter
+for java, 
+
+* next step go to your java project and right click on project then click on properties, click 'java build path' on left side
+ then click on 'Libraries' tab, for adding a external jar click on 'Add External Jar' then choose the same file from same location
+ 
+* "mysql-connector-java-5.1.41.jar"
