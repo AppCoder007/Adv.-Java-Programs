@@ -1,0 +1,4 @@
+Before Sorting
+GOOD MORNING. HAVE A GOOD CLASS. HAVE A GOOD VISIT. HAVE FUN! 
+After Sorting
+a class. fun! good have morning. visit. 
